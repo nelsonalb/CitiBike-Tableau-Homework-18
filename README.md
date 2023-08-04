@@ -4,7 +4,7 @@ Module 18 Challenge
 Citi Bike Program Data Analysis and Visualization
 Congratulations on your new role as the lead analyst for the New York Citi Bike program! As the overseer of the largest bike-sharing program in the United States, you are tasked with generating regular reports to improve and publicize the city program. Since 2013, the Citi Bike program has collected comprehensive data on its utilization, which is made public on the Citi Bike Data webpage.
 
-# Before You Begin
+### Before You Begin
 Save this assignment to your Tableau Public account, as it allows for easy sharing and continuous access to your workbook.
 
 If you don't have a Tableau Public account, create one to get started.
