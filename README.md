@@ -11,7 +11,7 @@ If you don't have a Tableau Public account, create one to get started.
 
 For your analysis, select and download 1-3 zip files from the Citi Bike Data source. Choose data with consistent columns, preferably from within the past year, to simplify merging datasets.
 
-# Instructions
+## Instructions
 Your primary task is to aggregate the data from the Citi Bike Trip History Logs and uncover two unexpected phenomena. You are encouraged to work with a timespan of your choice and can optionally merge multiple datasets from different periods.
 
 1) Design 2-5 visualizations for each phenomenon, resulting in a total of 4-10 visualizations. The following are questions you may wish to answer. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!
