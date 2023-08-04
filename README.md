@@ -1,6 +1,6 @@
 Module 18 Challenge
 
-Link to Tableau Dashboard: CitiBike Tableau Dashboard
+Link to Tableau Dashboard: https://public.tableau.com/app/profile/nelson.linarez/viz/CitiBike2022-Nelson/CitiBikesinJerseyCityHobokenin2022
 
 ## citibike_challenge
 
